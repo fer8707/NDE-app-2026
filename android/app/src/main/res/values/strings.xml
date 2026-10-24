@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Noche de las Estrellas</string>
+    <string name="title_activity_main">Noche de las Estrellas</string>
+    <string name="package_name">org.nocheestrellas.sedes</string>
+    <string name="custom_url_scheme">org.nocheestrellas.sedes</string>
+</resources>
